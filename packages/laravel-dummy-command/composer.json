@@ -1,6 +1,6 @@
 {
     "name": "geangontijo/laravel-dummy-command",
-    "version": "v0.0.2",
+    "version": "v0.0.3",
     "require": {
         "illuminate/support": "^11.30"
     },
