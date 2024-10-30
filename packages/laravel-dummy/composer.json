@@ -1,8 +1,9 @@
 {
     "name": "geangontijo/laravel-dummy",
-    "version": "v0.0.3",
+    "version": "v0.0.4",
     "require": {
-        "illuminate/support": "^11.30"
+        "illuminate/support": "^11.30",
+        "illuminate/log": "^11.30"
     },
     "autoload": {
         "psr-4": {
