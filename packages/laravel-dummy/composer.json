@@ -1,0 +1,19 @@
+{
+    "name": "geangontijo/laravel-dummy",
+    "version": "v0.0.1",
+    "require": {
+        "illuminate/support": "^11.30"
+    },
+    "autoload": {
+        "psr-4": {
+            "GeanGontijo\\LaravelDummy\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "GeanGontijo\\LaravelDummy\\LaravelDummyServiceProvider"
+            ]
+        }
+    }
+}
