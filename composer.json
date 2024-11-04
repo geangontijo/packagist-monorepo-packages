@@ -1,3 +1,20 @@
 {
-    "name": "geangontijo/monorepo"
+    "name": "geangontijo/laravel-dummy",
+    "version": "v0.0.4",
+    "require": {
+        "illuminate/support": "^11.30",
+        "illuminate/log": "^11.30"
+    },
+    "autoload": {
+        "psr-4": {
+            "GeanGontijo\\LaravelDummy\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "GeanGontijo\\LaravelDummy\\DummyServiceProvider"
+            ]
+        }
+    }
 }
