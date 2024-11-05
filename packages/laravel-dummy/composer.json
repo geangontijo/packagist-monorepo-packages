@@ -1,6 +1,11 @@
 {
     "name": "geangontijo/laravel-dummy",
-    "version": "v0.0.4",
+    "authors": [
+        {
+            "name": "Gean Gontijo",
+            "email": "gean.developer.07@gmail.com"
+        }
+    ],
     "require": {
         "illuminate/support": "^11.30",
         "illuminate/log": "^11.30"
