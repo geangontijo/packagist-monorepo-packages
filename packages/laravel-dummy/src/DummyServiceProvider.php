@@ -9,6 +9,6 @@ class DummyServiceProvider extends ServiceProvider
 {
     public function boot(): void
     {
-        Log::emergency('BOOT - Tecnologia avançada 2');
+        Log::emergency('BOOT - Tecnologia avançada 3');
     }
 }
