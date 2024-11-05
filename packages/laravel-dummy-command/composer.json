@@ -1,5 +1,6 @@
 {
     "name": "geangontijo/laravel-dummy-command",
+    "type": "library",
     "authors": [
         {
             "name": "Gean Gontijo",

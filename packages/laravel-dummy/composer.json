@@ -1,5 +1,6 @@
 {
     "name": "geangontijo/laravel-dummy",
+    "type": "library",
     "authors": [
         {
             "name": "Gean Gontijo",
