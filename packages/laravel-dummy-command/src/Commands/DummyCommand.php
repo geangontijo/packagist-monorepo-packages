@@ -12,7 +12,7 @@ class DummyCommand extends Command
 
     public function handle(): void
     {
-        $this->info('Tecnologia avançada');
+        $this->info('Tecnologia avançada v8');
     }
 
 }
