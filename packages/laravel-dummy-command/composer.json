@@ -1,5 +1,6 @@
 {
     "name": "geangontijo/laravel-dummy-command",
+    "description": "A dummy package for Laravel with a command",
     "type": "library",
     "authors": [
         {

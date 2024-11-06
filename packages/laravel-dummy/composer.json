@@ -1,5 +1,6 @@
 {
     "name": "geangontijo/laravel-dummy",
+    "description": "A dummy package for Laravel",
     "type": "library",
     "authors": [
         {
