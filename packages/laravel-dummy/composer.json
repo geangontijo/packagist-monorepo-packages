@@ -1,6 +1,7 @@
 {
     "name": "geangontijo/laravel-dummy",
     "description": "A dummy package for Laravel",
+    "license": "MIT",
     "type": "library",
     "authors": [
         {
